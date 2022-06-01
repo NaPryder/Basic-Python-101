@@ -28,19 +28,19 @@ Charpter 4: String
   - String formatting
  
 Charpter 5: List
-  - Access items
+  - Access list items
   - List method
   - Nested List
   - List Comprehension
  
 Charpter 6: Dictionary
-  - Access items
+  - Access dictionary items
   - Dictionary method
   - Nested Dictionary
  
 Charpter 7: Tuple & Set
-  - Access items
-  - Method
+  - Access tuple & Set items
+  - Method 
   - Use case
  
 Charpter 8: Function & Recursion
