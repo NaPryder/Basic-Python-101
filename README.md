@@ -1,63 +1,62 @@
-# Basic-Python-101
-  
-Charpter 1: intro to Python
-  - Flowchart
-  - Logical
-  - Install Python and setup environment
-  - Editor
-  - Python syntax & scope
-  - Data Type
-  
-Charpter 2: Selection
-  - Variables and Operators
-  - Casting
-  - Assign variables
-  - Identifier
-  - if, elif, else
-  
-Charpter 3: Repetiion
-  - Range
-  - While loop
-  - For loop
-  
-Charpter 4: String
-  - Quotation
-  - String manipulation
-  - String method
-  - Conversion type
-  - String formatting
- 
-Charpter 5: List
-  - Access list items
-  - List method
-  - Nested List
-  - List Comprehension
- 
-Charpter 6: Dictionary
-  - Access dictionary items
-  - Dictionary method
-  - Nested Dictionary
- 
-Charpter 7: Tuple & Set
-  - Access tuple & Set items
-  - Method 
-  - Use case
- 
-Charpter 8: Function & Recursion
-  - Local & Global variable
-  - Component of function
-  - Recursion (Applied math)
+Basic Python Programming
 
-Charpter 9: Library
-  - Build-in libraries (datetime, time, os, math)
-  - Extended libraries (numpy, pandas, matplotlib)
-  - Modules & Package
-  - Folder & File system
-  - Read, Write text file
-  - File method  
-  - Error handling
+Chapter 1: Intro to Python
+-	Install Python and setup environment
+-	Flowchart & Mathematical Logic
+-	Text Editor & extension
+-	Python syntax & scope
+-	Data Type
+  
+Chapter 2: Variables & Selection 
+-	Variables 
+-	Operators
+-	Casting variable
+-	Assign variable
+-	Identifier
+-	if, elif, else
+  
+Chapter 3: Repetition
+-	Range
+-	While loop
+-	For loop
+  
+Chapter 4: String
+-	Quotation
+-	String manipulation
+-	String method
+-	Conversion type
+-	String formatting
+ 
+ 
+Chapter 5: List
+-	Access list items
+-	List method
+-	Nested List
+-	List Comprehension
+ 
+Chapter 6: Dictionary
+-	Access dictionary items (key, value)
+-	Dictionary method
+-	Nested Dictionary
+ 
+Chapter 7: Tuple & Set
+-	Access tuple & Set items
+-	Method 
+-	Use case
+ 
+Chapter 8: Function & Recursion
+-	Local & Global variable
+-	Component of function
+-	Recursion (Applied math)
 
-Charpter 10: intro to Object Oriented Programing
+Chapter 9: Library
+-	Build-in libraries (datetime, time, os, math)
+-	Modules & Package
+-	Folder & File system
+-	Read & Write text file
+-	Error handling
+
+Chapter 10: intro to Object Oriented Programing
   - Concept of OOP
   - Class
   - Method
