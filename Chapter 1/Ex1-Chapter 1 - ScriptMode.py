@@ -1,9 +1,17 @@
 
 print('Hello python')
 print("This is Script mode")
+print("I'm is Script mode")
+print('I""m is Script mode')
+
+print('''
+line 6
+line 7
+line 8
+''')
 
 print("""
-    This python script run from command prompt.
+    This"" " python script run from command prompt.
 
     ---------------------
 End  .""")
@@ -17,4 +25,4 @@ End  .""")
 
 print('''** Good luck **''')
 
-print('ทดสอบการแสดงผล', "แบบหลายตัว")
+print('ทดสอบการแสดงผล', "แบบหลายตัวs")
